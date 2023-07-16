@@ -9,7 +9,9 @@
 <img align="left" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 <img align="left" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" alt="REST ASSURED" src="https://img.shields.io/badge/-restassured-%23E5E5E5?style=for-the-badge&logo=restassured&logoColor=058a5e"/>
+<img alt="REST API" src="https://img.shields.io/badge/restapi-%23006567.svg?style=for-the-badge&logo=restapi&logoColor=white"/>
 <img align="left" alt="CUCUMBER" src="https://img.shields.io/badge/cucumber-342B029.svg?&style=for-the-badge&logo=cucumber&logoColor=white"/>
 <img align="left" alt="JUNIT" src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit&logoColor=white"/>
 <img alt="TestNg" src="https://img.shields.io/badge/TestNg-000000?style=for-the-badge&logo=TestNg&logoColor=white"/>
